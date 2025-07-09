@@ -8,7 +8,6 @@
   --transition: 0.3s ease-in-out;
 }
 
-/* Base Styles */
 body {
   font-family: 'Karla', sans-serif;
   background: var(--bg-light);
