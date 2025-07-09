@@ -60,7 +60,7 @@ h1, h2, h3 {
   padding: 6rem 1rem;
   position: relative;
   color: var(--color-white);
-  animation: fadeIn 1s ease-out forwards;
+  animation: fadeIn 1.7s ease-out forwards;
 }
 .hero-section::after {
   content: '';
